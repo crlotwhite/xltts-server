@@ -1,0 +1,67 @@
+C/V,Position,Symbols in Hangul,Symbols in KoG2P,cmu pronun
+consonant,onset,ㅂ,p0,B
+consonant,onset,ㅍ,ph,P
+consonant,onset,ㅃ,pp,F
+consonant,onset,ㄷ,t0,D
+consonant,onset,ㅌ,th,T
+consonant,onset,ㄸ,tt,DH
+consonant,onset,ㄱ,k0,G
+consonant,onset,ㅋ,kh,K
+consonant,onset,ㄲ,kk,G
+consonant,onset,ㅅ,s0,S
+consonant,onset,ㅆ,ss,TH
+consonant,onset,ㅎ,h0,HH
+consonant,onset,ㅈ,c0,Z
+consonant,onset,ㅊ,ch,CH
+consonant,onset,ㅉ,cc,ZH
+consonant,onset,ㅁ,mm,M
+consonant,onset,ㄴ,nn,N
+consonant,onset,ㄹ,rr,R
+consonant,coda,ㅂ,pf,B
+consonant,coda,ㅍ,ph,B
+consonant,coda,ㄷ,tf,D
+consonant,coda,ㅌ,th,S
+consonant,coda,ㄱ,kf,G
+consonant,coda,ㅋ,kh,G
+consonant,coda,ㄲ,kk,G
+consonant,coda,ㅅ,s0,S
+consonant,coda,ㅆ,ss,S
+consonant,coda,ㅎ,h0,S
+consonant,coda,ㅈ,c0,D
+consonant,coda,ㅊ,ch,S
+consonant,coda,ㅁ,mf,M
+consonant,coda,ㄴ,nf,N
+consonant,coda,ㅇ,ng,NG
+consonant,coda,ㄹ,ll,L
+consonant,coda,ㄱㅅ,ks,G
+consonant,coda,ㄴㅈ,nc,N
+consonant,coda,ㄴㅎ,nh,N
+consonant,coda,ㄹㄱ,lk,G
+consonant,coda,ㄹㅁ,lm,L
+consonant,coda,ㄹㅂ,lb,L
+consonant,coda,ㄹㅅ,ls,L
+consonant,coda,ㄹㅌ,lt,L
+consonant,coda,ㄹㅍ,lp,L
+consonant,coda,ㄹㅎ,lh,L
+consonant,coda,ㅂㅅ,ps,B
+vowel,monophthong,ㅣ,ii,IH0
+vowel,monophthong,ㅔ,ee,AE0
+vowel,monophthong,ㅐ,qq,AE0
+vowel,monophthong,ㅏ,aa,AH0
+vowel,monophthong,ㅡ,xx,UH0
+vowel,monophthong,ㅓ,vv,EH0
+vowel,monophthong,ㅜ,uu,UW
+vowel,monophthong,ㅗ,oo,OW0
+vowel,diphthong,ㅖ,ye,Y AE0
+vowel,diphthong,ㅒ,yq,Y AE0
+vowel,diphthong,ㅑ,ya,Y AH0
+vowel,diphthong,ㅕ,yv,Y EH0
+vowel,diphthong,ㅠ,yu,Y UW
+vowel,diphthong,ㅛ,yo,Y OW0
+vowel,diphthong,ㅟ,wi,W IH0
+vowel,diphthong,ㅚ,wo,W AE0
+vowel,diphthong,ㅙ,wq,W AE0
+vowel,diphthong,ㅞ,we,W AE0
+vowel,diphthong,ㅘ,wa,W AH0
+vowel,diphthong,ㅝ,wv,W EH0
+vowel,diphthong,ㅢ,xi,W IH0
