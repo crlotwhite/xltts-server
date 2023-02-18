@@ -5,7 +5,7 @@ This code is a code copy uploaded separately for items that have modified the so
 It consists of FastSpeech2 + FastAPI + KoG2P.
 Therefore, each setting is required, but KoG2P is built-in and does not require installation.
 
-The zipped full code is [here](https://drive.google.com/file/d/12Ic4nMTsWncVP7r1RHERTVkbgY_Zr4TD/view?usp=share_link)
+The zipped full code is [here](https://drive.google.com/file/d/1o-daPiF-pzW0uNXy3p63zW1HDOHDx3n2/view?usp=sharing)
 
 # How to install
 This project assumes that the conda environment is prepared.
